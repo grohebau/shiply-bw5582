@@ -1,0 +1,47 @@
+{
+  "G90371": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
+    "receiver": "Johan Lambeck, Hoofdweg 6, 9795 PB Woltersum, Niederlande",
+    "price": "16.000 €",
+    "description": "Hersteller: Ural<br>Typ: Ranger Gespann<br>Fahrgestelnummer: X8JM50104N0232326<br>Erstzulassung: 03/2022<br>KM laut Vorbesitzer: 6.800 km<br>Leistung: 30 kW (41 PS)<br>Hubraum: 745 cm³<br>Farbe: Grau<br><br>Das Gespann ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Johan Lambeck<br>Hoofdweg 6<br>9795 PB Woltersum<br>Niederlande<br>Telefon: +31 639760791",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "04-09-2025",
+    "deliveryDate": "11-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
