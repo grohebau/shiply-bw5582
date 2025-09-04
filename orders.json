@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Hoofdweg 6",
+      "postal_code": "9795 PB",
+      "city": "Woltersum",
+      "country": "Niederlande",
+      "lat": "53.27187700216467",
+      "lng": "6.732635652864649"
     }
   }
 }
